@@ -9,7 +9,6 @@
 - Fine-grained patch sculpting (down to sub-line level)
 - Multi-index support for advanced workflows
 - Integrated test runner and terminal
-- Designed for CI/CO and blob-heavy projects
 - Clean, modern, and approachable UI
 
 ## Why Vincent?
@@ -36,5 +35,3 @@ Vincent is open source under the MIT License.
 
 **License Recommendation:**  
 The [MIT License](https://opensource.org/licenses/MIT) is a great choice for most open source projects: it’s simple, permissive, and widely used. If you want a bit more protection (e.g., requiring modifications to be open source), consider [GPLv3](https://www.gnu.org/licenses/gpl-3.0.html). For most public, collaborative tools, MIT is the best default.
-
-Would you like the full MIT license text for your `LICENSE` file?
