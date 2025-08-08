@@ -4,7 +4,8 @@
   "description": "**Vincent** is a next-generation Git patch and staging tool inspired by the creativity and precision of Vincent van Gogh. It lets you visually organize, sculpt, and commit your changes with the artistry of a master—making complex workflows simple, intuitive, and even fun.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node src/index.ts"
   },
   "repository": {
     "type": "git",
